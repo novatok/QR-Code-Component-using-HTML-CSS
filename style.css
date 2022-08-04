@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    background-color: hsl(212, 45%, 89%);
+    width: 100vw;
+    height: 100vh;
+    padding-top: 20%;
+    margin: 0;
+}
+
+.myCard {
+    border-radius: 15px;
+    width: 65vw;
+    margin: auto;
+    padding: 4% 5% 4% 5%;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 12;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color:hsl(220, 15%, 55%);
+}
+
+.text-container {
+    padding: 5px;
+    line-height: 20px;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    #container {
+        width: 90%;
+        margin: 15% auto;
+        padding: 10% 0;
+        height: 400px;
+        box-shadow: 1px -1px 20px hsla(218, 44%, 22%, 0.5) ;
+    }
+
+    .myCard {
+        width: 25%;
+        margin-bottom: 2%;
+        height: 95%;
+        border-radius: 15px;
+        padding: 1% 1% 6% 1%;
+        box-shadow: 1px -1px 20px hsla(218, 44%, 22%, 0.2) ;
+
+    }
+
+    
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+## Colors
+
+- White: hsl(0, 0%, 100%)
+- Light gray: hsl(212, 45%, 89%)
+- Grayish blue: hsl(220, 15%, 55%)
+- Dark blue: hsl(218, 44%, 22%)
+
+## Typography
+
+### Body Copy
+
+- Font size (paragraph): 15px
+
+### Font
+
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 400, 700 */
