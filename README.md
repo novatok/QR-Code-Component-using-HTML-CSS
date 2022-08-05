@@ -4,20 +4,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview]
-  - [Screenshot]
-  - [Links]
-- [My process]
-  - [Built with]
-- [Author]
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
 
 
 ## Overview
 
 ### Screenshot
 
-![images/screenshot.png]
-![i/screenshot-mobile.png]
+![screenshot-desktop] (images/screenshot.png)
+![screenshot-mobile](images/screenshot-mobile.png)
 
 
 ### Links
@@ -37,6 +38,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Kamoy Saunders](https://www.your-site.com)
+- Website - [Kamoy Saunders]
 - Frontend Mentor - [@novatok](https://www.frontendmentor.io/profile/novatok)
 
